@@ -2,8 +2,8 @@
 # auto_updates is planned metadata; runtime update acceptance is separate.
 # No zap: preserve Keychain, account/device/trial identities and user data.
 cask "blabe" do
-  version "1.0.9"
-  sha256 "3be706c0f85821fdfa4cd67be058f5b6aa73cdd43fcfa52a8df5ac54f6c95f3f"
+  version "1.0.10"
+  sha256 "46c6b2316ef41c7738ab7c6a318d6be1b6bdce2d172d1aae147b8bdfd598b0b4"
 
   url "https://blabe.dev/downloads/blabe-#{version}.dmg"
   name "blabe"
